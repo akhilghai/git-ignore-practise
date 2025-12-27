@@ -2,3 +2,4 @@ Another file with filename file6.txt
 hellowas
 asas
 hello
+new
